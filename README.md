@@ -1,6 +1,15 @@
 # Cronômetro
-Este projeto foi desenvolvido utilizando <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>, onde o objetivo era desenvolver um <b>Cronômetro Virtual</b>.
 
-Na tela principal, abaixo do cronômetro em si, há um botão pra iniciar, um botão para pausar e um botão para zera o cronômetro.
+## Descrição do projeto:
+O objetivo deste projeto foi desenvolver um <b>cronômetro virtual</b>. Na tela principal, abaixo do cronômetro, há um <b>botão pra iniciar</b>, um <b>botão para pausar</b> e um <b>botão para zerar o cronômetro</b>.
 
-Neste projeto, também, o objetivo não foi trabalhar com a responsividade.
+Neste projeto, o objetivo não foi trabalhar com a responsividade.
+
+## Tecnologias utilizadas:
+HTML, CSS e JavaScript.
+
+## Conhecimentos adquirdos durante o desenvolvimento:
+Aprendi a fazer a contagem do tempo usansando laços de repetição e iterações, resetar a contagem e como pausar uma contagem de laço de repetição.
+
+## Link do repositório do GitHub:
+https://github.com/PedroHMSilva929/Cronometro
