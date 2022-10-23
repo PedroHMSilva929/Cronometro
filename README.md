@@ -11,5 +11,5 @@ HTML, CSS e JavaScript.
 ## Conhecimentos adquirdos durante o desenvolvimento:
 Aprendi a fazer a contagem do tempo usansando laços de repetição e iterações, resetar a contagem e como pausar uma contagem de laço de repetição.
 
-## Link do repositório do GitHub:
-https://github.com/PedroHMSilva929/Cronometro
+## Como ficou o projeto:
+![cronometro](https://user-images.githubusercontent.com/83307765/197417840-857dd272-a45e-4e1e-9baa-02aa7fbbd7c4.png)
